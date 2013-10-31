@@ -1,0 +1,21 @@
+
+html, body {
+	height: 90%;
+	margin:0
+	padding:0
+	overflow-x:hidden;
+	}
+
+#wrapper {
+	min-height: 95%;
+	height: auto !important;
+	margin-bottom:35px;
+	}
+
+#footer, #push {
+	clear:both;
+	width:100%;
+	font-size: 12px;
+	height:35px;
+	text-align:center;
+	}
